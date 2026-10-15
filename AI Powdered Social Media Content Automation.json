@@ -54,7 +54,7 @@
     },
     {
       "parameters": {
-        "modelName": "models/gemini-3.8-flash",
+        "modelName": "models/gemini-3.8-flash-lite",
         "options": {}
       },
       "id": "2335aed8-9118-4f2e-97f8-c2e6593ed706",
@@ -89,7 +89,7 @@
     },
     {
       "parameters": {
-        "modelName": "models/gemini-3.8-flash",
+        "modelName": "models/gemini-3.8-flash-lite",
         "options": {}
       },
       "id": "40d61984-b474-48f2-9fad-8ef343b08398",
