@@ -27,7 +27,7 @@ An AI-powered social media automation workflow built using **n8n, Google Sheets,
 
 <!-- Upload your actual n8n screenshot to the assets folder first. -->
 <p align="center">
-  <img src="assets/workflow.png" alt="AI-powered social media automation workflow in n8n" width="100%"/>
+  <img src="assets/workflow.png" alt="Workflow preview" width="100%"/>
 </p>
 
 *The workflow screenshot above should show your actual n8n nodes and connections.*
