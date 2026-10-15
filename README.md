@@ -22,6 +22,12 @@ An AI-powered social media automation workflow built using **n8n, Google Sheets,
 - 🧠 **AI-Powered Content Generation:** Process and generate content using Google Gemini.
 - 🔗 **LinkedIn Integration:** Create posts using a configured LinkedIn account.
 - 🔄 **Time-Saving Workflow:** Reduce repetitive manual content creation tasks.
+- 
+## 🖼️ Workflow Preview
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dntdfccdk/image/upload/v1792040869/Screenshot_2026-10-15_101243_uhnfdy.png" alt="AI-Powered Social Media Workflow Automation in n8n" width="100%"/>
+</p>
 
 ## 🛠️ Tech Stack
 
